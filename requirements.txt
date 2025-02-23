@@ -3,4 +3,4 @@ pickle
 numpy
 render_template
 request
-pip install scikit-learn
+scikit-learn
