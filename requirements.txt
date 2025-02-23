@@ -1,5 +1,7 @@
-flask
-numpy
+Flask==3.1.0
+numpy==1.25.0
+scikit-learn==1.6.1
+pickle
 render_template
 request
-scikit-learn
+
